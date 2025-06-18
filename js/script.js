@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 "Transform Your Business with AI.",
                 "Secure Your Digital Future.",
                 "Build Scalable Cloud Solutions.",
-                "NovaTech Solutions: Your Digital Partner."
+                "FyTech Solutions: Your Digital Partner."
             ],
             typeSpeed: 50,
             backSpeed: 25,
